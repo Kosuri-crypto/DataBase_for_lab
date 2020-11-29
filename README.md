@@ -17,7 +17,7 @@
 # Как установить
 Для работы с готовой программой достаточно скачать архив ***BD_Build.7z*** и разархивировать его в любое место.
 - Click BD_Build.7z:
- ![alt text](https://sun9-34.userapi.com/impg/C3GKBIK3-yIFoID4NWqmG0y3oHY4MRgjgBzjLg/LqR-VPfvtWU.jpg?size=664x104&quality=96&proxy=1&sign=2c7ddac0ea967e879e3c1f8e25b92665)
+ ![alt text](https://sun9-7.userapi.com/impg/UMC6Q7TRwAPFk7T2ImCC5xNKNxQb9nokRRpWpw/8Q1SiLlt2Cc.jpg?size=793x119&quality=96&proxy=1&sign=2538ad0e64c8f4bc8a2bab2f25655d6f)
 - Click Download:
  ![alt text](https://sun9-69.userapi.com/impg/Rtnj9MjGK05uelxmjMHS70nnVANjvih8rr2t7A/1C3F1foWQ_A.jpg?size=1225x140&quality=96&proxy=1&sign=a1a676481898db3e6fe8887f1d2d920f)
 - Drag and drop folder or unpack:
