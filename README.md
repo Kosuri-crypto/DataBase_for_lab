@@ -1,8 +1,8 @@
 # DataBase_for_lab
 ## Интерфейс для базы данных:
-- [Вступление]()
-- [Как установить]()
-- [Как пользоваться]()
+- [Вступление](https://github.com/Kosuri-crypto/DataBase_for_lab#%D0%B2%D1%81%D1%82%D1%83%D0%BF%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
+- [Как установить](https://github.com/Kosuri-crypto/DataBase_for_lab#%D0%BA%D0%B0%D0%BA-%D1%83%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%B8%D1%82%D1%8C)
+- [Как пользоваться](https://github.com/Kosuri-crypto/DataBase_for_lab#%D0%BA%D0%B0%D0%BA-%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D1%82%D1%8C%D1%81%D1%8F)
 
 ![alt text](https://github.com/Kosuri-crypto/DataBase_for_lab/blob/main/Assets/Sprites/tsu-logo.png)
 ![alt text](https://github.com/Kosuri-crypto/DataBase_for_lab/blob/main/Assets/Sprites/cyber-logo.png)
