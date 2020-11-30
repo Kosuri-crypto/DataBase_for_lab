@@ -1242,7 +1242,7 @@ public class DB_Manager : MonoBehaviour
         }
         else if (DD_type1.options[DD_type1.value].text == "Материнская плата")
         {
-            ExtendedSearchData("Процессор",
+            ExtendedSearchData("Материнская_плата",
                 DD_prod1.options[DD_prod1.value].text,
                 field31.GetComponent<InputField>().text,
                 field41.GetComponent<InputField>().text,
@@ -1257,7 +1257,7 @@ public class DB_Manager : MonoBehaviour
         }
         else if (DD_type1.options[DD_type1.value].text == "Видеокарта")
         {
-            ExtendedSearchData("Процессор",
+            ExtendedSearchData("Видеокарта",
                 DD_prod1.options[DD_prod1.value].text,
                 field31.GetComponent<InputField>().text,
                 field41.GetComponent<InputField>().text,
@@ -1272,7 +1272,7 @@ public class DB_Manager : MonoBehaviour
         }
         else if (DD_type1.options[DD_type1.value].text == "Оперативная память")
         {
-            ExtendedSearchData("Процессор",
+            ExtendedSearchData("Оперативная_память",
                 DD_prod1.options[DD_prod1.value].text,
                 field31.GetComponent<InputField>().text,
                 field41.GetComponent<InputField>().text,
